@@ -95,6 +95,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
+<h2 align="center"> GitHub Stats </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vijay-sb&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Vijay's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-sb&theme=gotham&hide_border=true" alt="GitHub Streak" />
+    <br />
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay-sb&theme=react-dark" alt="Github Activity Graph" />
+    </div>
+</div>
+
+</div>
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/vijaysb06" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
