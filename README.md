@@ -95,15 +95,35 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
-<h2 align="center"> GitHub Stats </h2>
+<h2 align="center">🚀 GitHub Stats & Activity</h2>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vijay-sb&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Vijay's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-sb&theme=gotham&hide_border=true" alt="GitHub Streak" />
-    <br />
-    <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay-sb&theme=react-dark" alt="Github Activity Graph" />
-    </div>
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vijay-sb&theme=radical&show_icons=true&hide_border=false&count_private=true&border_radius=15"
+    alt="Vijay's GitHub Stats"
+    height="180"
+  />
+
+  <!-- GitHub Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vijay-sb&theme=radical&hide_border=false&border_radius=15"
+    alt="GitHub Streak"
+    height="180"
+  />
 </div>
+
+<br />
+
+<!-- Activity Graph -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vijay-sb&theme=github-compact&area=true&hide_border=false"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
+</div>
+
 
 </div>
 
